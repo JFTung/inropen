@@ -31,6 +31,8 @@ this problem in the past.  I'll PM you my solution."  Publicity is good!
 
 ### Screenshot of the tree man page:
 ![manTree](images/lab1/manTree.png)
+### Screenshot of tree in action:
+![treeExec](images/lab1/treeExec.png)
 
 ### Screenshot of the Regex tutorials:
 ![regexTutorial1](images/lab1/regexTutorial1.png)
@@ -39,3 +41,6 @@ this problem in the past.  I'll PM you my solution."  Publicity is good!
 
 ### Solution to the blockly maze puzzle:
 ![maze](images/lab1/blockyMaze.png)
+
+### Concluding Reflection
+
