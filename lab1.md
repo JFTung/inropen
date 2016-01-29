@@ -46,7 +46,7 @@ this problem in the past.  I'll PM you my solution."  Publicity is good!
 #### Screenshot of my Xubuntu workspace:
 ![workspace](images/lab1/workspace.png)
 I am running exclusively Xubuntu on my laptop (no Windows).  I use Vim as my
-prefered text editor, and I pushed my local edits to my repository onto GitHub
+preferred text editor, and I pushed my local edits to my repository onto GitHub
 using the terminal.  I used the Linux "shutter" package to take the screenshots
 for this lab.
 
