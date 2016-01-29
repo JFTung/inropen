@@ -24,9 +24,10 @@ who finds the post.  Please make your solutions public.
 
 I would change one more thing about the article.  The article states that It's
 the respondent's choice whether to reply privately."  I believe (for reasons
-similar to those listed above) that the respondend should **almost always**
+similar to those listed above) that the respondent should **almost always**
 reply publicly.  It is always beneficial to have responses preserved for future
-use.
+use.  It's infuriating to find a 5 year old thread that ends with "I've had
+this problem in the past.  I'll PM you my solution."  Publicity is good!
 
 ### Solution to the blockly maze puzzle:
 ![maze](images/blockyMaze.png)
