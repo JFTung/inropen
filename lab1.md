@@ -1,7 +1,7 @@
 ## Lab 1 - Friday January 29, 2016
 
 ### Completion of the git tutorial:
-![github](images/gitTutorial.png)
+![github](images/lab1/gitTutorial.png)
 
 ### Reflection on readings:
 I believe that the 10 criteria for the Open Source Definition are fair and
@@ -30,12 +30,12 @@ use.  It's infuriating to find a 5 year old thread that ends with "I've had
 this problem in the past.  I'll PM you my solution."  Publicity is good!
 
 ### Screenshot of the tree man page:
-![manTree](images/manTree.png)
-a
+![manTree](images/lab1/manTree.png)
+
 ### Screenshot of the Regex tutorials:
-![regexTutorial1](images/regexTutorial1.png)
-![regexTutorial2](images/regexTutorial2.png)
-![regexTutorial3](images/regexTutorial3.png)
+![regexTutorial1](images/lab1/regexTutorial1.png)
+![regexTutorial2](images/lab1/regexTutorial2.png)
+![regexTutorial3](images/lab1/regexTutorial3.png)
 
 ### Solution to the blockly maze puzzle:
-![maze](images/blockyMaze.png)
+![maze](images/lab1/blockyMaze.png)
