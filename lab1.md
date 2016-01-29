@@ -43,4 +43,15 @@ this problem in the past.  I'll PM you my solution."  Publicity is good!
 ![maze](images/lab1/blockyMaze.png)
 
 ### Concluding Reflection
+#### Screenshot of my Xubuntu workspace:
+![workspace](images/lab1/workspace.png)
+I am running exclusively Xubuntu on my laptop (no Windows).  I use Vim as my
+prefered text editor, and I pushed my local edits to my repository onto GitHub
+using the terminal.  I used the Linux "shutter" package to take the screenshots
+for this lab.
 
+#### Projects I'm Interested In
+I would be interested in making some type of game.  However, I am open to other
+ideas.  I think it would be fun to make some type of productivity tool.  While
+I have experience creating CLI programs, I have no experience with GUI, so I'll
+either have to learn GUI or stick to CLI.
