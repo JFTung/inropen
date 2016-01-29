@@ -1,1 +1,1 @@
-Solution to the blockly maze puzzle:  ![maze](images/blocklyMaze.png)
+Solution to the blockly maze puzzle:  ![maze](images/blockyMaze.png)
