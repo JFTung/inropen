@@ -29,5 +29,13 @@ reply publicly.  It is always beneficial to have responses preserved for future
 use.  It's infuriating to find a 5 year old thread that ends with "I've had
 this problem in the past.  I'll PM you my solution."  Publicity is good!
 
+### Screenshot of the tree man page:
+![manTree](images/manTree.png)
+a
+### Screenshot of the Regex tutorials:
+![regexTutorial1](images/regexTutorial1.png)
+![regexTutorial2](images/regexTutorial2.png)
+![regexTutorial3](images/regexTutorial3.png)
+
 ### Solution to the blockly maze puzzle:
 ![maze](images/blockyMaze.png)
