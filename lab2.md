@@ -20,12 +20,53 @@ If a project doesn't have an explicit licence, it is by default protected by
 copyright (All Rights Reserved).  Therefore, you are not allowed to use the
 project's code unless their license explicitly gives you permission.
 
-### Do you agree with the article "Why the Web beat Gopher?"
+### Do you agree with the article, "Why the Web beat Gopher?"
 I agree with the fundamental idea that this article follows.  By releasing your
 software to the public, you allow a much larger development community to work
 on and improve your code.  As the old saying goes, two heads are better than
 one, and a huge development community is better than a smaller development
 team.  This is one of the greatest strenghts of open source software.
+
+### Why does Linux use the GPL v2 license?
+Linux uses the GPL (GNU General Public License) v2, which is a widely used free
+software license which guarantees end users the freedom to run, study, share,
+copy, and modify the software.  It makes sense for Linux to use this type of
+license, because Linux's philosophy is centered around creating free and open
+source software.  Linux is meant to be shared and tinkered with, so it has this
+license to explicity grant these rights to its users.
+
+### Example Project with License
+As an example, say that I have made a piece of software that accepts a document
+written in English, and parses each sentence such that it identifies the
+subject, verb, clauses, etc.  I want to release this simple piece of software
+to the public so that other experienced programmers can improve upon it.  It
+would also help to allow some language specialists to weigh in on how to parse
+the English language.  I want to allow companies to use this code in their
+projects, so I choose the MIT License:
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Jayson Tung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Discussing GPL vs. LGPL vs. Apache/BSD
 
 ![Creative Commons License](images/lab2/creatComm.png)
 This work is licensed under a http://creativecommons.org/licenses/by/4.0/
