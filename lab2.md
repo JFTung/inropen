@@ -67,10 +67,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Discussing GPL vs. LGPL vs. Apache/BSD
-The licenses discussed here are:
-- GNU General Public License v3 (GPL-3)
-- GNU Lesser General Public License v3 (LGPL-3)
-- BSD 2-Clause License (FreeBSD/Simplified)
 
 A developer would likely want to use the GPL or LGPL (if they are developing a
 library).  This allows their code to be used freely as long as derivative works
@@ -78,9 +74,10 @@ are redistributed under GPL/LGPL (applications that use libraries under LGPL
 don't have to be).  For the "greater good," the GPL is probably best, as it
 ensures that the project and all derivative works will remain open source.
 This ensures that the community can continue to work and improve on the
-project.  A company that wants to make a commercial profit could take a piece
-of software licenced under BSD, modify it, and release it without including the
-source code.  This allows them to make money off of their project.
+project.  A company that wants to make a commercial profit would want to use
+Apache, because while it is still open source, it allows the  company to keep
+their poject a version or two ahead of the public source code, which give
+people an incentive to buy their product.
 
 ### Example RCOS Licenses
 
