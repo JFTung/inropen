@@ -87,7 +87,13 @@ source code.  This allows them to make money off of their project.
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/AutoRoute/node | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/Robmaister/SharpNav | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/astonshane/davisputnamGo | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License 
+https://github.com/CloudBench-IDE/cloudbench | Yes | Apache 2.0 https://en.wikipedia.org/wiki/Apache_License
+https://github.com/hosier/free-of-charge | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License 
+
+### Project and License for this Course
 
 ![Creative Commons License](images/lab2/creatComm.png)
 This work is licensed under a http://creativecommons.org/licenses/by/4.0/
