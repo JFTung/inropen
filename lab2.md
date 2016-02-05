@@ -94,6 +94,16 @@ https://github.com/CloudBench-IDE/cloudbench | Yes | Apache 2.0 https://en.wikip
 https://github.com/hosier/free-of-charge | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License 
 
 ### Project and License for this Course
+I would actually be interested in creating some kind of English parser.  I
+don't know how difficult this would be, but I would like to see if I could make
+some type of program that takes in an English sentence/paragraph/etc. and
+identifies the important grammatical constructs (e.g. subject, main verb,
+subordinate clauses, etc.).  This kind of software could be used in many
+different projects, such as article summarizers, text-based adventure games,
+command lines, etc.  Users could be indiviudals or companies who want to use
+this parser to develop their own software.  I would want them to be able to use
+this software in their own projects, so I would choose the MIT License.  This
+keeps my project open source, but allows companies to use it as they wish.
 
 ![Creative Commons License](images/lab2/creatComm.png)
 This work is licensed under a http://creativecommons.org/licenses/by/4.0/
