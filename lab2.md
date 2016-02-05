@@ -76,7 +76,7 @@ ensures that the project and all derivative works will remain open source.
 This ensures that the community can continue to work and improve on the
 project.  A company that wants to make a commercial profit would want to use
 Apache, because while it is still open source, it allows the  company to keep
-their poject a version or two ahead of the public source code, which give
+their poject a version or two ahead of the public source code, which gives
 people an incentive to buy their product.
 
 ### Example RCOS Licenses
