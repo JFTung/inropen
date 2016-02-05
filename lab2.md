@@ -71,6 +71,7 @@ The licenses discussed here are:
 - GNU General Public License v3 (GPL-3)
 - GNU Lesser General Public License v3 (LGPL-3)
 - BSD 2-Clause License (FreeBSD/Simplified)
+
 A developer would likely want to use the GPL or LGPL (if they are developing a
 library).  This allows their code to be used freely as long as derivative works
 are redistributed under GPL/LGPL (applications that use libraries under LGPL
@@ -85,9 +86,8 @@ source code.  This allows them to make money off of their project.
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License
-https://en.wikipedia.org/wiki/ISC_license
-
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 
 ![Creative Commons License](images/lab2/creatComm.png)
 This work is licensed under a http://creativecommons.org/licenses/by/4.0/
