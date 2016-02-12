@@ -15,6 +15,9 @@ https://github.com/mskmoorthy/spring2016pullreq
 #### Link to courseproject repository:
 https://github.com/JFTung/courseproject/tree/master
 
+#### Link to NewStory collaborative repository:
+https://github.com/axptwig/NewStory
+
 ##### gitk ![gitk](images/lab3/gitk.png)
 
 ##### git log --graph --oneline --decorate ![gitLog](images/lab3/gitLog.png)
