@@ -4,4 +4,5 @@ Link to lab3part1 repository:  https://github.com/JFTung/lab3part1
 
 gitk ![gitk](images/lab3/gitk.png)
 
-gitk --all ![gitk --all](images/lab3/gitk--all.png)
+git log --graph --oneline --decorate ![gitLog](images/lab3/gitLog.png)
+
