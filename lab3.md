@@ -12,6 +12,9 @@ https://github.com/JFTung/spring2016pullreq
 #### Link to original spring2016pullreq repository:
 https://github.com/mskmoorthy/spring2016pullreq
 
+#### Link to courseproject repository:
+https://github.com/JFTung/courseproject/tree/master
+
 ##### gitk ![gitk](images/lab3/gitk.png)
 
 ##### git log --graph --oneline --decorate ![gitLog](images/lab3/gitLog.png)
