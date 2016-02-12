@@ -2,6 +2,6 @@
 
 Link to lab3part1 repository:  https://github.com/JFTung/lab3part1
 
-gitk [gitk](images/lab3/gitk.png)
+gitk ![gitk](images/lab3/gitk.png)
 
-gitk --all [gitk --all](images/lab3/gitk--all.png)
+gitk --all ![gitk --all](images/lab3/gitk--all.png)
