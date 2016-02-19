@@ -23,7 +23,7 @@ Link to diff file related to the above bug:
 [grammarFix.diff](files/grammarFix.diff)
 
 Screenshot of extraneous comma "bug" report:
-![bugSubmission](images/lab4/bugSubmission.png)
+![bugSubmission](images/lab4/bugGrammar.jpg)
 
 
 ### Conclusion
