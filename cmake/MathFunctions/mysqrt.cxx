@@ -18,5 +18,7 @@ double mysqrt(const double number) {
 		else {
 			lower = guess; 
 		}
+	}
 	return (lower + upper)/2;
+
 }

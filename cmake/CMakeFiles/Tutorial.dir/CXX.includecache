@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jayson/Documents/open/myopen/cmake/MathFunctions.h
+
+/home/jayson/Documents/open/myopen/cmake/TutorialConfig.h
+
+/home/jayson/Documents/open/myopen/cmake/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/jayson/Documents/open/myopen/cmake/TutorialConfig.h
+MathFunctions.h
+/home/jayson/Documents/open/myopen/cmake/MathFunctions.h
+

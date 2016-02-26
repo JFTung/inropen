@@ -1,0 +1,110 @@
+Start testing: Feb 26 13:51 EST
+----------------------------------------------------------
+1/6 Testing: TutorialRuns
+1/6 Test: TutorialRuns
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial" "25"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialRuns" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5.00012
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Feb 26 13:51 EST
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: TutorialComp25
+2/6 Test: TutorialComp25
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial" "25"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialComp25" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5.00012
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Feb 26 13:51 EST
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: TutorialNegative
+3/6 Test: TutorialNegative
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial" "-25"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialNegative" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+The square root of -25 is -24.9996
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found.Regex=[-25 is 0
+]
+"TutorialNegative" end time: Feb 26 13:51 EST
+"TutorialNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: TutorialSmall
+4/6 Test: TutorialSmall
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial" "0.0001"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialSmall" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+The square root of 0.0001 is 0.0103529
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialSmall" end time: Feb 26 13:51 EST
+"TutorialSmall" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: TutorialUsage
+5/6 Test: TutorialUsage
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialUsage" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+/home/jayson/Documents/open/myopen/cmake/Tutorial Version 1.0
+Usage: /home/jayson/Documents/open/myopen/cmake/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Feb 26 13:51 EST
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: TutorialComp-25
+6/6 Test: TutorialComp-25
+Command: "/home/jayson/Documents/open/myopen/cmake/Tutorial" "-25"
+Directory: /home/jayson/Documents/open/myopen/cmake
+"TutorialComp-25" start time: Feb 26 13:51 EST
+Output:
+----------------------------------------------------------
+The square root of -25 is -24.9996
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found.Regex=[-25 is 0
+]
+"TutorialComp-25" end time: Feb 26 13:51 EST
+"TutorialComp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 26 13:51 EST
