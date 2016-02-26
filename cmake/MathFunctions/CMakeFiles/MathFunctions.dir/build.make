@@ -49,9 +49,14 @@ include MathFunctions/CMakeFiles/MathFunctions.dir/progress.make
 # Include the compile flags for this target's objects.
 include MathFunctions/CMakeFiles/MathFunctions.dir/flags.make
 
+MathFunctions/Table.h: MathFunctions/MakeTable
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/jayson/Documents/open/myopen/cmake/CMakeFiles $(CMAKE_PROGRESS_1)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating Table.h"
+	cd /home/jayson/Documents/open/myopen/cmake/MathFunctions && ./MakeTable /home/jayson/Documents/open/myopen/cmake/MathFunctions/Table.h
+
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o: MathFunctions/CMakeFiles/MathFunctions.dir/flags.make
 MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o: MathFunctions/mysqrt.cxx
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/jayson/Documents/open/myopen/cmake/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/jayson/Documents/open/myopen/cmake/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o"
 	cd /home/jayson/Documents/open/myopen/cmake/MathFunctions && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/MathFunctions.dir/mysqrt.cxx.o -c /home/jayson/Documents/open/myopen/cmake/MathFunctions/mysqrt.cxx
 
@@ -97,7 +102,7 @@ MathFunctions/CMakeFiles/MathFunctions.dir/clean:
 	cd /home/jayson/Documents/open/myopen/cmake/MathFunctions && $(CMAKE_COMMAND) -P CMakeFiles/MathFunctions.dir/cmake_clean.cmake
 .PHONY : MathFunctions/CMakeFiles/MathFunctions.dir/clean
 
-MathFunctions/CMakeFiles/MathFunctions.dir/depend:
+MathFunctions/CMakeFiles/MathFunctions.dir/depend: MathFunctions/Table.h
 	cd /home/jayson/Documents/open/myopen/cmake && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jayson/Documents/open/myopen/cmake /home/jayson/Documents/open/myopen/cmake/MathFunctions /home/jayson/Documents/open/myopen/cmake /home/jayson/Documents/open/myopen/cmake/MathFunctions /home/jayson/Documents/open/myopen/cmake/MathFunctions/CMakeFiles/MathFunctions.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : MathFunctions/CMakeFiles/MathFunctions.dir/depend
 

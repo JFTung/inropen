@@ -527,6 +527,19 @@ Tutorial/fast:
 .PHONY : Tutorial/fast
 
 #=============================================================================
+# Target rules for targets named MakeTable
+
+# Build rule for target.
+MakeTable: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MakeTable
+.PHONY : MakeTable
+
+# fast build rule for target.
+MakeTable/fast:
+	$(MAKE) -f MathFunctions/CMakeFiles/MakeTable.dir/build.make MathFunctions/CMakeFiles/MakeTable.dir/build
+.PHONY : MakeTable/fast
+
+#=============================================================================
 # Target rules for targets named MathFunctions
 
 # Build rule for target.
@@ -605,6 +618,7 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... test"
+	@echo "... MakeTable"
 	@echo "... MathFunctions"
 	@echo "... tutorial.o"
 	@echo "... tutorial.i"
