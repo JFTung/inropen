@@ -21,6 +21,8 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-2.8/Modules/CTest.cmake"
   "/usr/share/cmake-2.8/Modules/CTestTargets.cmake"
   "/usr/share/cmake-2.8/Modules/CTestUseLaunchers.cmake"
+  "/usr/share/cmake-2.8/Modules/CheckFunctionExists.c"
+  "/usr/share/cmake-2.8/Modules/CheckFunctionExists.cmake"
   "/usr/share/cmake-2.8/Modules/Compiler/GNU-C.cmake"
   "/usr/share/cmake-2.8/Modules/Compiler/GNU-CXX.cmake"
   "/usr/share/cmake-2.8/Modules/Compiler/GNU.cmake"
