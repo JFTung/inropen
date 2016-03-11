@@ -18,7 +18,7 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('this line has no special handling'), 
-                '<p>this line has no special handling</p>')
+                '<p>this line has no special handling</p>\n')
 
     def test_em(self):
         '''
@@ -26,7 +26,7 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('*this should be wrapped in em tags*'),
-                '<p><em>this should be wrapped in em tags</em></p>')
+                '<p><em>this should be wrapped in em tags</em></p>\n')
 
     def test_strong(self):
         '''
@@ -34,7 +34,20 @@ class TestMarkdownPy(unittest.TestCase):
         '''
         self.assertEqual( 
                 run_markdown('**this should be wrapped in strong tags**'),
-                '<p><strong>this should be wrapped in strong tags</strong></p>')
+                '<p><strong>this should be wrapped in strong tags</strong></p>\n')
+
+    def test_h1(self):
+        self.assertEqual( 
+                run_markdown('#this should be wrapped in h1 tags'),
+                '<p><h1>this should be wrapped in h1 tags</h1></p>\n')
+    def test_h2(self):
+        self.assertEqual( 
+                run_markdown('##this should be wrapped in h2 tags'),
+                '<p><h2>this should be wrapped in h2 tags</h2></p>\n')
+    def test_h3(self):
+        self.assertEqual( 
+                run_markdown('###this should be wrapped in h3 tags'),
+                '<p><h3>this should be wrapped in h3 tags</h3></p>\n')
 
 if __name__ == '__main__':
     unittest.main()

@@ -91,11 +91,17 @@ which are more concrete and static numbers.
 ## Gource Videos
 
 [HWserver](/files/lab6/HWserver.mp4)
+
 [MeNext](/files/lab6/MeNext.mp4)
+
 [Nepal](/files/lab6/Nepal.mp4)
+
 [Shuttle](/files/lab6/Shuttle.mp4)
+
 [Soul](/files/lab6/Soul.mp4)
 
 
 
 ### Part 2 - Unit Testing
+
+
