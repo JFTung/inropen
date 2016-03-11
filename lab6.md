@@ -17,6 +17,8 @@ Latest commit:  Feb 5, 2016
 
 Current branches (1):  master
 
+gitstats:  [shuttleStats](/files/lab6/shuttleTrackingStats/index.html)
+
 
 #### MeNext
 
