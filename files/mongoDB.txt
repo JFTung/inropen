@@ -1,0 +1,25 @@
+show dbs
+use chairs
+db
+
+show collections
+db.inventory.insert({numLegs: 2})
+show collections
+db.inventory
+db.inventory.find()
+db.inventory.insert({numLegs: 3})
+db.inventory.find()
+db.inventory.find().pretty()
+db.inventory.insert({numLegs: 3})
+db.inventory.insert({numLegs: 4})
+db.inventory.find().pretty()
+db.inventory.find({numLegs:3})
+
+db.inventory.update({numLegs: 2}, {numLegs: 3})
+db.inventory.find()
+db.inventory.update({numLegs: 3}, {$set: {numLegs: 2}}, {multi: true})
+db.inventory.find()
+db.inventory.update({numLegs: 3}, {$set: {name: "Bob"}}, {multi: true})
+db.inventory.find({name: "Bob"})
+
+
